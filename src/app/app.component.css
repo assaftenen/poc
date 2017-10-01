@@ -1,0 +1,23 @@
+
+.col-lg-12{
+    height: 90%;
+    background-color: blue;
+    color: white;
+    text-align:center;
+}
+.raw{
+    margin-top: 5px;
+    height: 100px;
+    width: 100%;
+}
+.container-fluid{
+    width: 100%;
+}
+.container-fluid__body{
+    width: 100%
+}
+.raw_body{
+    margin-top: 5px;
+    height: 800px;
+    width: 100%;
+}
